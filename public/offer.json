@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Special Burger",
+    "price": 250,
+    "img": "https://i.ibb.co/pWzDyzy/Burger-King-vegan-Whopper.jpg"
+  },
+  {
+    "name": "Chiken Fry ",
+    "price": 150,
+    "img": "https://i.ibb.co/1nHZm6D/chicken-Fry.jpg"
+  },
+  {
+    "name": "Special Fizza ",
+    "price": 450,
+    "img": "https://i.ibb.co/5xJbGJj/fizza.jpg"
+  },
+  {
+    "name": "Boti Kabab ",
+    "price": 300,
+    "img": "https://i.ibb.co/sjzjXmt/boti-kebab.jpg"
+  }
+]

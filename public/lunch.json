@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Chiken Fry",
+    "des": "4 pis leg fry",
+    "price": 240,
+    "img": "https://i.ibb.co/1nHZm6D/chicken-Fry.jpg"
+  },
+  {
+    "name": "Chiken Tanduri",
+    "des": "1 Full",
+    "price": 250,
+    "img": "https://i.ibb.co/fkKhBYt/chicken-tandori.jpg"
+  },
+  {
+    "name": "Chiken Sizzling",
+    "des": "1 Full",
+    "price": 350,
+    "img": "https://i.ibb.co/87T9RGK/Sizzling-Chicken.jpg"
+  },
+  {
+    "name": "Chiken Broast",
+    "des": "For a Couple",
+    "price": 300,
+    "img": "https://i.ibb.co/88fn9vK/chiken-broast.jpg"
+  },
+  {
+    "name": "Beef Masala",
+    "des": "For a Couple",
+    "price": 600,
+    "img": "https://i.ibb.co/HCr86s9/Beef-Masala-Curry.jpg"
+  },
+  {
+    "name": "Fried Rice",
+    "des": "For a Couple",
+    "price": 300,
+    "img": "https://i.ibb.co/mbpHkrB/fridRise.jpg"
+  },
+  {
+    "name": "B.B.Q Chiken",
+    "des": "A Full Chiken",
+    "price": 400,
+    "img": "https://i.ibb.co/SXcGjtz/grilled-chicken1.jpg"
+  },
+  {
+    "name": "Vegetables",
+    "des": "For 3 person",
+    "price": 200,
+    "img": "https://i.ibb.co/8jfYQ32/vegetables.jpg"
+  },
+  {
+    "name": "Chiken Curry",
+    "des": "For a Couple",
+    "price": 350,
+    "img": "https://i.ibb.co/pxyN2k4/chicken-curry.jpg"
+  }
+]

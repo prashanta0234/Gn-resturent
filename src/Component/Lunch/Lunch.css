@@ -1,0 +1,6 @@
+.lunch button:hover {
+  background-color: #272727;
+}
+.card:hover {
+  box-shadow: 5px 10px 18px #888888;
+}
