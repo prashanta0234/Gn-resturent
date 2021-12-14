@@ -6,3 +6,22 @@
   margin-top: -22px;
   padding-bottom: 2rem;
 }
+.booking .input,
+select {
+  width: 100%;
+  background-color: transparent;
+  border: 1px solid black;
+  margin-top: 10px;
+  border-radius: 5px;
+  height: 50px;
+  padding-left: 10px;
+  margin-right: 20px;
+  color: rgb(0, 0, 0);
+}
+.booking select option {
+  color: black;
+}
+
+::placeholder {
+  color: rgb(0, 0, 0);
+}
