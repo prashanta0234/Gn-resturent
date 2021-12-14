@@ -50,3 +50,7 @@ body {
 .swiper-slide button:hover {
   background-color: #272727;
 }
+
+.swiper-slide a {
+  text-decoration: none;
+}

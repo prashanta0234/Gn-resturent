@@ -4,10 +4,10 @@ import React, { useEffect, useState } from "react";
 
 import "../Lunch/Lunch.css";
 
-const Evening = () => {
+const Drinks = () => {
   const [lunchs, setLunches] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/foods/61b6681a591c0477ef5f3728")
+    fetch("http://localhost:5000/foods/61b6681a591c0477ef5f3727")
       .then((res) => res.json())
       .then((data) => setLunches(data));
   }, []);
@@ -49,4 +49,4 @@ const Evening = () => {
   );
 };
 
-export default Evening;
+export default Drinks;

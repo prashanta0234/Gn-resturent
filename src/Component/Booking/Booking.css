@@ -1,0 +1,8 @@
+.booking {
+  background-image: url("../../images/booking.jpg");
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: -22px;
+  padding-bottom: 2rem;
+}

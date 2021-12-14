@@ -1,0 +1,12 @@
+.footer {
+  background-image: url(../../images/footer.png);
+  min-height: 50vh;
+  background-color: #333333;
+  margin-top: 50px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5rem;
+}

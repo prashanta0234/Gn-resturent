@@ -1,13 +1,4 @@
-import {
-  Button,
-  Card,
-  CardActionArea,
-  CardActions,
-  CardContent,
-  CardMedia,
-  Grid,
-  Typography,
-} from "@mui/material";
+import { Card, CardContent, CardMedia, Grid, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import React, { useEffect, useState } from "react";
 
@@ -16,7 +7,7 @@ import "./Lunch.css";
 const Lunch = () => {
   const [lunchs, setLunches] = useState([]);
   useEffect(() => {
-    fetch("lunch.json")
+    fetch("http://localhost:5000/foods/61b6681a591c0477ef5f3728")
       .then((res) => res.json())
       .then((data) => setLunches(data));
   }, []);
@@ -49,22 +40,6 @@ const Lunch = () => {
                     {lunch?.price} ৳
                   </Typography>
                 </CardContent>
-
-                <CardActions>
-                  <Button
-                    sx={{
-                      bgcolor: "#272727",
-                      color: "white",
-                      my: 0.5,
-                      fontFamily: "Lobster",
-                      py: 1,
-                      px: 3,
-                      mx: "auto",
-                    }}
-                  >
-                    Add to Cart
-                  </Button>
-                </CardActions>
               </Card>
             </Grid>
           ))}

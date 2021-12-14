@@ -1,0 +1,15 @@
+.login {
+  background-image: url(../../images/Login.jpg);
+  min-height: 102.5vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.login form input {
+  height: 40px;
+  width: 98%;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.login form {
+  padding: 60px;
+}

@@ -1,0 +1,252 @@
+[
+  {
+    "name": "FRENCH FRIES",
+    "des": "For 1 person",
+    "price": 200,
+    "img": "https://i.ibb.co/7rNLQCD/FRENCH-FRIES.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Chiken Fry",
+    "des": "4 pis leg fry",
+    "price": 240,
+    "img": "https://i.ibb.co/1nHZm6D/chicken-Fry.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Egg Noodls",
+    "des": "Full plate & half plate available",
+    "price": 100,
+    "img": "https://i.ibb.co/DkG6DWF/chinese-egg-noodle.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Chicken Noodls",
+    "des": "Full plate & half plate available",
+    "price": 150,
+    "img": "https://i.ibb.co/M17x0T2/chicken-noodles.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Thai Soup",
+    "des": "Full plate & half plate available",
+    "price": 150,
+    "img": "https://i.ibb.co/GdSL0n8/thaiSoup.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Vegetable Soup",
+    "des": "Full plate & half plate available",
+    "price": 150,
+    "img": "https://i.ibb.co/pbYLppF/Homemade-vegetable-soup.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Tost",
+    "des": "3 pis in a plate",
+    "price": 200,
+    "img": "https://i.ibb.co/3Sytg17/toast.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Puri",
+    "des": "3 pis in a plate",
+    "price": 100,
+    "img": "https://i.ibb.co/7GKF0H5/puri.jpg",
+    "cetagory":"breakfast"
+  },
+  {
+    "name": "Dosa",
+    "des": "3 pis in a plate",
+    "price": 130,
+    "img": "https://i.ibb.co/yBnm4DK/dosa.jpg",
+    "cetagory":"breakfast"
+  } ,{
+    "name": "Kacchi Biriyani",
+    "img": "https://i.ibb.co/YZ13RHH/dhaka-kachchi-tbs.jpg",
+    "price": "450",
+    "des": "Full plate and half plate  available!",
+    "cetagory":"dinner"
+  },
+  {
+    "name": "Bhuna Khisori",
+    "img": "https://i.ibb.co/zJgSwnW/Bhuna-khichuri-recipe.jpg",
+    "price": "250",
+    "des": "Full plate and half plate  available!",
+    "cetagory":"dinner"
+
+  },
+  {
+    "name": "Beef Khisori",
+    "img": "https://i.ibb.co/820VY8m/Hariyali-Beef-Khichurihv.jpg",
+    "price": "350",
+    "des": "Full plate and half plate  available!",
+    "cetagory":"dinner"
+  },
+  {
+    "name": "Rice With Curry",
+    "img": "https://i.ibb.co/3Cy86br/rice-With-Carry.png",
+    "price": "200",
+    "des": "Full plate and half plate  available!",
+    "cetagory":"dinner"
+  },
+  {
+    "name": "Halim",
+    "img": "https://i.ibb.co/w7k0Mnz/halim.jpg",
+    "price": "150",
+    "des": "Full plate and half plate  available!",
+    "cetagory":"dinner"
+  },
+  {
+    "name": "Fried Rice",
+    "des": "For a Couple",
+    "price": 300,
+    "img": "https://i.ibb.co/mbpHkrB/fridRise.jpg",
+    "cetagory":"dinner"
+  },
+  {
+    "name": "B.B.Q Chiken",
+    "des": "A Full Chiken",
+    "price": 400,
+    "img": "https://i.ibb.co/SXcGjtz/grilled-chicken1.jpg",
+    "cetagory":"dinner"
+  },
+  {
+    "name": "Vegetables",
+    "des": "For 3 person",
+    "price": 200,
+    "img": "https://i.ibb.co/8jfYQ32/vegetables.jpg",
+    "cetagory":"dinner"
+  },
+  {
+    "name": "Beef Masala",
+    "des": "For a Couple",
+    "price": 600,
+    "img": "https://i.ibb.co/HCr86s9/Beef-Masala-Curry.jpg",
+    "cetagory":"dinner"
+  },{
+    "name": "Sweet Lacchi",
+    "price": "160",
+    "des": "Cold or normal available",
+    "img": "https://i.ibb.co/QJZZPqX/sweet-lassi-zuranazrecipe-com.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "Mango Lacchi",
+    "price": "200",
+    "des": "Cold or normal available",
+    "img": "https://i.ibb.co/6Nmf69c/mango-lassi.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "Strawberry Lacchi",
+    "price": "240",
+    "des": "Cold or normal available",
+    "img": "https://i.ibb.co/rGXFK3N/strawberry.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "KitKat Shake",
+    "price": "200",
+    "des": "Cold or normal available",
+    "img": "https://i.ibb.co/BTNSHQf/kitkat.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "Choklate Shake",
+    "price": "240",
+    "des": "Cold or normal available",
+    "img": "https://i.ibb.co/XpFfNmD/Choklatemilkshake.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "Vanilla Shake",
+    "price": "180",
+    "des": "Cold or normal available",
+    "img": "https://i.ibb.co/C0Vf0GT/Vanilla-Shake.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "Black coffee",
+    "price": "100",
+    "des": "Makes from original coffee been",
+    "img": "https://i.ibb.co/7YQDyDh/blackcoffee-1561170296.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "Cold coffee",
+    "price": "150",
+    "des": "With Choklate",
+    "img": "https://i.ibb.co/zZ1LmyV/cold.jpg",
+    "cetagory":"drinks"
+  },
+  {
+    "name": "Mix Fruit Faluda",
+    "price": "300",
+    "des": "5 fruits",
+    "img": "https://i.ibb.co/LRkxTWD/mixfruitfalooda-1no.jpg",
+    "cetagory":"drinks"
+  },{
+    "name": "Chiken Shwarma",
+    "des": "For 2 person",
+    "price": 300,
+    "img": "https://i.ibb.co/WzxmL7h/chicken-shwarma-1551285400.png",
+    "cetagory":"evening"
+  },
+  {
+    "name": "Chiken Baked Pasta",
+    "des": "For 2 person",
+    "price": 350,
+    "img": "https://i.ibb.co/51pVqkZ/Chikenpasta-bake.jpg",
+    "cetagory":"evening"
+  },
+  {
+    "name": "Chiken Fizza",
+    "des": "For 2 person",
+    "price": 450,
+    "img": "https://i.ibb.co/wdTPGCg/Chicken-Pizza.jpg",
+    "cetagory":"evening"
+  },
+  {
+    "name": "Beef Fizza",
+    "des": "For 2 person",
+    "price": 650,
+    "img": "https://i.ibb.co/JrkPW0d/sliced-meat-pizza.jpg",
+    "cetagory":"evening"
+  },
+  {
+    "name": "Chiken sandwich",
+    "des": "For 1 person",
+    "price": 200,
+    "img": "https://i.ibb.co/tcYSKYw/Grilled-chicken-sandwich.jpg",
+    "cetagory":"evening"
+  },
+  {
+    "name": "Chiken Sub Sandwich",
+    "des": "For 1 person",
+    "price": 180,
+    "img": "https://i.ibb.co/RSz5gTz/12-inch-Buffalo-Chicken-Ranch-Submarine-Sandwich-with-Lettuce-and-Tomato-on-a-Crusty-Bun-Photographe.jpg",
+    "cetagory":"evening"
+  },
+  {
+    "name": "FRENCH FRIES",
+    "des": "For 1 person",
+    "price": 200,
+    "img": "https://i.ibb.co/7rNLQCD/FRENCH-FRIES.jpg",
+    "cetagory":"evening"
+  },
+  {
+    "name": "Meat Box",
+    "des": "For 1 person",
+    "price": 200,
+    "img": "https://i.ibb.co/dPCTGxj/meatBox.jpg",
+    "cetagory":"evening"
+  },
+  {
+    "name": "Nachos",
+    "des": "For 1 person",
+    "price": 220,
+    "img": "https://i.ibb.co/c1h4v2V/A-plate-of-delicious-tortilla-nachos-with-melted-cheese-sauce-ground-beef-jalapeno-peppers-red-onion.jpg",
+    "cetagory":"evening"
+  }
+]
