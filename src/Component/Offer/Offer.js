@@ -17,7 +17,7 @@ SwiperCore.use([Scrollbar, Autoplay]);
 const Offer = () => {
   const [offers, setOffers] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/offers")
+    fetch("https://warm-sands-69381.herokuapp.com/offers")
       .then((res) => res.json())
       .then((data) => setOffers(data));
   }, []);

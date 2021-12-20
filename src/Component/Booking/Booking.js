@@ -34,9 +34,16 @@ const Booking = () => {
   const { register, handleSubmit, reset } = useForm();
 
   const onSubmit = (data) => {
+    const { Name, email, MobileNumber, person, ocetion, date, time } = data;
     axios
-      .post("http://localhost:5000/booked", {
-        data,
+      .post("https://warm-sands-69381.herokuapp.com/booked", {
+        Name,
+        email,
+        MobileNumber,
+        person,
+        ocetion,
+        date,
+        time,
       })
       .then(function (response) {
         console.log(response);
@@ -76,6 +83,12 @@ const Booking = () => {
                 type="text"
                 placeholder="Name"
                 {...register("Name", { required: true, maxLength: 80 })}
+                className="input"
+              />
+              <input
+                type="email"
+                value={user?.email}
+                {...register("email", { required: true })}
                 className="input"
               />
               <input

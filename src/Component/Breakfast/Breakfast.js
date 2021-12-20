@@ -7,7 +7,9 @@ import "../Lunch/Lunch.css";
 const Breakfast = () => {
   const [lunchs, setLunches] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/foods/61b6681a591c0477ef5f3725")
+    fetch(
+      "https://warm-sands-69381.herokuapp.com/foods/61b6681a591c0477ef5f3725"
+    )
       .then((res) => res.json())
       .then((data) => setLunches(data));
   }, []);
